@@ -27,3 +27,4 @@ def circulate():
 ## Output:
 ![Logo](cir.jpg)
 ## Result:
+The variables are rotated successfully
